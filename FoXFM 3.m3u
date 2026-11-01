@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,FoX FM Live 1
+http://foxfm.xyz:8080/live1
+#EXTINF:-1,FoX FM Live 2
+http://foxfm.xyz:8080/live2
+#EXTINF:-1,FoX FM Live 3
+http://foxfm.xyz:8080/live3
+#EXTINF:-1,FoX FM Live 4
+http://foxfm.xyz:8080/live4
+#EXTINF:-1,FoX FM 1
+http://foxfm.xyz/1
+#EXTINF:-1,FoX FM 2
+http://foxfm.xyz/2
+#EXTINF:-1,FoX FM 3
+http://foxfm.xyz/3
+#EXTINF:-1,FoX FM 4
+http://foxfm.xyz/4
+#EXTINF:-1,FoX FM 5
+http://foxfm.xyz/5
+#EXTINF:-1,FoX FM 6
+http://foxfm.xyz/6
+#EXTINF:-1,FoX FM 7
+http://foxfm.xyz/7
+#EXTINF:-1,FoX FM 8
+http://foxfm.xyz/8
+#EXTINF:-1,FoX FM 9
+http://foxfm.xyz/9
+#EXTINF:-1,FoX FM Xtra 1
+http://foxfm.xyz:8080/xtra1
+#EXTINF:-1,FoX FM Xtra 2
+http://foxfm.xyz:8080/xtra2
+#EXTINF:-1,FoX FM Xtra 3
+http://foxfm.xyz:8080/xtra3
+#EXTINF:-1,FoX FM EN 1
+http://foxfm.xyz:8080/en1
+#EXTINF:-1,FoX FM EN 2
+http://foxfm.xyz:8080/en2
+#EXTINF:-1,FoX FM FR 1
+http://foxfm.xyz:8080/fr1
+#EXTINF:-1,FoX FM FR 2
+http://foxfm.xyz:8080/fr2
+#EXTINF:-1,FoX FM StarzPlay 1
+http://foxfm.xyz:8080/starzplay1
+#EXTINF:-1,FoX FM StarzPlay 2
+http://foxfm.xyz:8080/starzplay2
+#EXTINF:-1,FoX FM Shasha 1
+http://foxfm.xyz:8080/shasha1
+#EXTINF:-1,FoX FM Shasha 2
+http://foxfm.xyz:8080/shasha2
+#EXTINF:-1,FoX FM Thmanyah 1
+http://foxfm.xyz:8080/thmanyah1
+#EXTINF:-1,FoX FM Thmanyah 2
+http://foxfm.xyz:8080/thmanyah2
+#EXTINF:-1,FoX FM Thmanyah 3
+http://foxfm.xyz:8080/thmanyah3
+#EXTINF:-1,FoX FM Shahid 1
+http://foxfm.xyz:8080/shahid1
+#EXTINF:-1,FoX FM Shahid 2
+http://foxfm.xyz:8080/shahid2
+#EXTINF:-1,FoX FM Alkass 5
+http://foxfm.xyz:8080/alkass5
+#EXTINF:-1,FoX FM Alkass 6
+http://foxfm.xyz:8080/alkass6
+#EXTINF:-1,FoX FM Alkass 7
+http://foxfm.xyz:8080/alkass7
+#EXTINF:-1,FoX FM Alkass 8
+http://foxfm.xyz:8080/alkass8
